@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sohamdev1/reactron.git"
+    "url": "https://github.com/sohamdev1/reactron.git"
   },
   "keywords": [
     "Pomodoro",
