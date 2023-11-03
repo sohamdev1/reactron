@@ -1,6 +1,6 @@
 module.exports = {
   branches: [
-    'main',
+    'master',
     'next',
     'next-major',
     { name: 'beta', prerelease: true },
