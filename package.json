@@ -6,6 +6,10 @@
     "type": "git",
     "url": "https://github.com/sohamdev1/reactron.git"
   },
+  "author": {
+    "name": "Soham Dev",
+    "email": "sohamdevs@yahoo.com"
+  },
   "keywords": [
     "Pomodoro",
     "remark",
