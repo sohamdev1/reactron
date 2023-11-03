@@ -9,8 +9,8 @@ if (process.env.VITE_APP_VERSION === undefined) {
  * @see https://www.electron.build/configuration/configuration
  */
 const config = {
-  appId: 'app.deskaide.www',
-  productName: 'Deskaide',
+  appId: 'app.reactron.www',
+  productName: 'reactron',
   directories: {
     output: 'dist',
     buildResources: 'buildResources',
@@ -19,9 +19,8 @@ const config = {
   files: ['packages/**/dist/**'],
   extraMetadata: {
     version: process.env.VITE_APP_VERSION,
-    homepage: 'https://www.deskaide.app',
-    description:
-      'An open source application to help managing your desk (Computer) usage.',
+    homepage: 'https://github.com/sohamdev1/reactron',
+    description: 'reactron',
   },
   mac: {
     icon: 'assets/icons/Deskaide.icns',

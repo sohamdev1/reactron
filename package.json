@@ -1,5 +1,5 @@
 {
-  "name": "deskaide",
+  "name": "reactron",
   "version": "1.0.0",
   "private": true,
   "repository": {
@@ -11,9 +11,8 @@
     "email": "sohamdevs@yahoo.com"
   },
   "keywords": [
-    "Pomodoro",
-    "remark",
-    "CodeMirror",
+    "react",
+    "reactron",
     "Electron",
     "Vite",
     "TypeScript"
